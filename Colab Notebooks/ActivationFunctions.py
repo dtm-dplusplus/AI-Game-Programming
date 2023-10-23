@@ -15,6 +15,8 @@ def Step(X, THRESHOLD):
 def Sigmoid(X, THRESHOLD): 
    return (1 / (1 + np.exp(-(X- THRESHOLD))))
 
+def Linear(X, THRESHOLD):
+    return X - THRESHOLD
 
 # EPOCH FUNCTIONS #
 # Input Function
