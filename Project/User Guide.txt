@@ -1,0 +1,4 @@
+1. Run The first cell of each Colab File - This will install the neccessary libraries and variables
+2. Run the code! Have fun!!
+
+Inside the data folder you can see the testing I performed to find the optimal model.
